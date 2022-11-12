@@ -1,2 +1,2 @@
 # LearningMachineLearning
-In this respsitory, I will store the projects of machine learning.
+In this respsitory, I will store the machine learning projects.
